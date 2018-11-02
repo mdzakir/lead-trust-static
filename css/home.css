@@ -1,0 +1,93 @@
+.header_area.navbar_fixed .main_menu {
+    background: #34495e;
+}
+
+.banner_btn{
+    background: #16a085;
+    border-color: #16a085;
+}
+
+.tac{
+    text-align: center
+}
+
+.navbar-light .navbar-brand.logo_h {
+    color: #fff;
+    font-weight: bold;
+}
+
+.test-centre-col{
+    position: relative;
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+}
+
+.test-centre-col a{
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow: 0 0;
+    font-size: 18px;
+    padding: 6px 25px;
+    margin-top: 20px;
+}
+
+.test-centre-col .state-theme-bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -2;
+    border-radius: 8px;
+}
+
+.state-theme-overlay{
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    border-radius: 8px;
+}
+
+.announcements{
+    background: #f39c12;
+    padding: 20px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    border: 0;
+}
+
+.announcements.fixed{
+    position: fixed;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.announcements.fixed.top{
+    top:0;
+}
+
+.header_area{
+    top: 66px;
+}
+
+.header_area.navbar_fixed .main_menu{
+    top: -4px;
+}
+
+.question-papers-col a{
+    margin-bottom: 10px;
+}
+
+.partner-logo-wrapper img {
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 1px 1px 1px #eee;
+    padding: 10px;
+}
