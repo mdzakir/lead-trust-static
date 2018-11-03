@@ -1,0 +1,40 @@
+.header_area.navbar_fixed .main_menu {
+    background: #34495e;
+}
+
+.navbar-light .navbar-brand.logo_h {
+    color: #fff;
+    font-weight: bold;
+}
+
+
+
+.banner_area {
+    position: relative;
+    z-index: 1;
+    min-height: 200px;
+    background: #000;
+}
+
+.banner_area .banner_inner{
+	min-height: 200px;
+}
+
+.tac{
+    text-align: center
+}
+
+
+.footer_area{
+	padding: 20px;
+	background: #2c3e50;
+	color: #ccc;
+}
+
+.projects-section{
+	padding: 40px 0;
+}
+
+.projects-section h3{
+	margin: 15px 0 10px;
+}

@@ -1,2 +1,8 @@
 
 /*# sourceMappingURL=_about.css.map */
+
+.about_content_area {
+    margin-top: -44px;
+    position: relative;
+    z-index: 2;
+}
